@@ -1,0 +1,6 @@
+mv is used within the terminal to move a file from one directry to another.  The paremeters it is given are firstly the name of the file that is required to move, and secondly the place where it will be moved too.
+This might look like the following
+
+mv this_file ../Another_Folder/this_file3
+
+The mv command can also be used to rename a file at the same time.
