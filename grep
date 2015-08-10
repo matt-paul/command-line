@@ -1,0 +1,5 @@
+Grep is used on the command line, in order to read text from within a file, and display the results either in the terminal, or piped to another file or way of displaying, for example less, or another text file.
+
+eg grep monkey animals.txt
+
+It can be used in conjuction with wildcards (*), or with regular expressions, in order to further narrow down the results.
